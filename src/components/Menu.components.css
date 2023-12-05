@@ -1,0 +1,32 @@
+.active {
+    color: white !important; 
+}
+
+.dropdown-item:hover {
+background-color: black;
+color: white !important;
+}
+
+.dropdown-item a:hover {
+    color: white;
+    transition: 0s;
+}
+
+.dropdown-item a {
+    transition: 0s;
+}
+
+.nav-item:hover {
+ background-color: black;
+ color: white;
+}
+
+.nav-item a:hover {
+    color: white;
+    transition: 0s;
+}
+
+.nav-item {
+    transition: 0s;
+}
+
